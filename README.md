@@ -249,6 +249,12 @@ migration expertise for AI coding assistants:
 [Cursor](https://atlasgo.io/guides/ai-tools/cursor-rules),
 [OpenAI Codex](https://atlasgo.io/guides/ai-tools/codex-instructions). Learn more at [AI tools docs](https://atlasgo.io/guides/ai-tools).
 
+Install the Atlas skill with the [`skills`](https://skills.sh) CLI:
+
+```shell
+npx skills add ariga/atlas
+```
+
 ## CLI Usage
 
 ### `schema inspect`
